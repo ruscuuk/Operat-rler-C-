@@ -1,0 +1,15 @@
+C:\Users\Ruscuk\Desktop\Operatörler C#\bin\Debug\net6.0\Operatörler C#.exe
+C:\Users\Ruscuk\Desktop\Operatörler C#\bin\Debug\net6.0\Operatörler C#.deps.json
+C:\Users\Ruscuk\Desktop\Operatörler C#\bin\Debug\net6.0\Operatörler C#.runtimeconfig.json
+C:\Users\Ruscuk\Desktop\Operatörler C#\bin\Debug\net6.0\Operatörler C#.dll
+C:\Users\Ruscuk\Desktop\Operatörler C#\bin\Debug\net6.0\Operatörler C#.pdb
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.csproj.AssemblyReference.cache
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.AssemblyInfoInputs.cache
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.AssemblyInfo.cs
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.csproj.CoreCompileInputs.cache
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.dll
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\refint\Operatörler C#.dll
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.pdb
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\Operatörler C#.genruntimeconfig.cache
+C:\Users\Ruscuk\Desktop\Operatörler C#\obj\Debug\net6.0\ref\Operatörler C#.dll
